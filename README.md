@@ -1,4 +1,4 @@
-# ML-based-Autism-Screening
+## ML-based-Autism-Screening
 <p align="center">
 Predicting Autism Spectrum Disorder using Machine Learning
 </p>
